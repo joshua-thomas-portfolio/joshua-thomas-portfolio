@@ -1,5 +1,17 @@
 # Welcome To My Portfolio!!!
-This portfolio contains my personal football (soccer) analytical projects. I will practice the skills of Data Preparation, Exploration, and Visualization using the tools of Python/R Programming, Spreadsheets, SQL, and Tableau. I will analyze data from www.fbref.com, which is a public open source database for all stats football (soccer) to do my projects.
+This portfolio contains my personal sports analytics projects. I will practice the skills of Data Preparation, Exploration, Modeling and Visualization using the tools of Python/R Programming, Spreadsheets, and Machine Learning. I will analyze data from www.fbref.com, which is a public open source database for all stats football (soccer) to do my projects, and also analyze data provided from my sports analytics class. 
+
+## Project 2
+###
+In Assignment 2 for IS470, we were asked to determine the best kickers in the NFL given the 2022 NFL Big Data Bowl Files. Our Professor gave us flexibility with this assignment. There is no set way to determine which athletes are the best kickers. Therefore, I feel it is very important to specify what describes the best kickers in the NFL to me. Firstly, when I think of kickers, I’m thinking about those athletes who take field goals- not punts or extra points. This is important to note because again, there’s flexibility in your terms for this particular assignment.
+
+Now, in terms of determining which kickers are the best, I used Machine Learning to generate a statistic that I called Expected Field Goals. Given a host of data containing certain metrics, particularly the length of the field goal and the result- making the field goal or missing, which is a binary value (1, 0), I used a Supervised Learning Logistic Regression Classification Model to predict whether a kick would be made from a given distance.
+
+Then, I would use these predicted values and compare them with a kicker’s actual results. If a kicker was expected to make the field goal from a given distance and did make the field goal or was not expected to make a field goal and made the field goal, he gets a point. Oppositely, if a kicker was expected to make a field goal from a given distance and missed in reality, he gets no points. I would store this point in a new variable called efficiency
+
+So, for every data point available in the data set, I would calculate the efficiency and take the average of the efficiency for a given kicker and multiply it by 100. This would equal the rating of the kicker, which is the percentage of times the kicker performed to or above expectations in comparison to my model
+
+Thus, the kickers with the highest ratings are the best kickers in the NFL
 
 ## Project 1
 ### Project Description
