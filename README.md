@@ -1,7 +1,7 @@
 # Welcome To My Portfolio!!!
 This portfolio contains my personal sports analytics projects. I will practice the skills of Data Preparation, Exploration, Modeling and Visualization using the tools of Python/R Programming, Spreadsheets, and Machine Learning. I will analyze data from www.fbref.com, which is a public open source database for all stats football (soccer) to do my projects, and also analyze data provided from my sports analytics class. 
 
-## Project 2
+## Project 3
 ### Project Description
 Code and Project is on my RPubs Account. Click this link: https://rpubs.com/jathomas2/957845 <br><br>
 In Assignment 2 for IS470, we were asked to determine the best kickers in the NFL given the 2022 NFL Big Data Bowl Files. Our Professor gave us flexibility with this assignment. There is no set way to determine which athletes are the best kickers. Therefore, I feel it is very important to specify what describes the best kickers in the NFL to me. Firstly, when I think of kickers, I’m thinking about those athletes who take field goals- not punts or extra points. This is important to note because again, there’s flexibility in your terms for this particular assignment.
@@ -13,6 +13,15 @@ Then, I would use these predicted values and compare them with a kicker’s actu
 So, for every data point available in the data set, I would calculate the efficiency and take the average of the efficiency for a given kicker and multiply it by 100. This would equal the rating of the kicker, which is the percentage of times the kicker performed to or above expectations in comparison to my model
 
 Thus, the kickers with the highest ratings are the best kickers in the NFL
+
+## Project 2
+### Project Description
+If there is one sport that I've loved my whole life, it's football (soccer). If there's one competition that has truly resonated with me, it's the
+English Premier League. As a life long Manchester United fan, I've always been fascinated with the constant competition, the vibrant
+atmospheres, and the wonderful play of the English game. As an aspiring Data Scientist who is getting his feet wet with Machine Learning, I
+thought there would be no better way to get acquainted with Supervised Learning than using Premier League data itself. Thus, in my first
+Machine Learning Model ever, I'm going to buuild a Linear Regression Model which can predict with decent accuracy the final wins of a
+Premier League Team.
 
 ## Project 1
 ### Project Description
