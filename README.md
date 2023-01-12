@@ -1,7 +1,7 @@
 # Welcome To My Portfolio!!!
 This portfolio contains my personal sports analytics projects. I will practice the skills of Data Preparation, Exploration, Modeling and Visualization using the tools of Python/R Programming, Spreadsheets, and Machine Learning. 
 
-## Project 4
+## Project 3
 ### Project Description
 My submission for the 2023 NFL Big Data Bowl. Code found on Kaggle: https://www.kaggle.com/code/jt2002/bigdatabowl2023joshuathomas
 
@@ -19,7 +19,7 @@ I can develop a rating for each O-Lineman and then rank who the best O-Lineman a
 
 NFL teams can use this rating system to determine undervalued players and make reasonable trade or player acquisitions. Additionally, NFL teams can use my Expected Total Pressure Allowed Model to evaluate their current O-Lineman and see if they are meeting expectations
 
-## Project 3
+## Project 2
 ### Project Description
 In my CS403 Data Science class, we were asked to scrape API data and do statistical analysis and machine learning. Using the API-Football API found on RapidAPI, I gathered Premier League data from the 2012-2021 seasons to try and answer the following questions:
 
@@ -31,7 +31,7 @@ In my CS403 Data Science class, we were asked to scrape API data and do statisti
 
 In this project, I practiced building Linear Regression and Logistic Regression Classification Supervised Learning Machine Learning and I practiced scraping API data and usinng get requests for API endpoints. 
 
-## Project 2
+## Project 1
 ### Project Description
 Code and Project is on my RPubs Account. Click this link: https://rpubs.com/jathomas2/957845 <br><br>
 In Assignment 2 for IS470, we were asked to determine the best kickers in the NFL given the 2022 NFL Big Data Bowl Files. My Professor gave us flexibility with this assignment. There is no set way to determine which athletes are the best kickers. Therefore, I feel it is very important to specify what describes the best kickers in the NFL to me. Firstly, when I think of kickers, I’m thinking about those athletes who take field goals- not punts or extra points. This is important to note because again, there’s flexibility in your terms for this particular assignment.
@@ -43,15 +43,6 @@ Then, I would use these predicted values and compare them with a kicker’s actu
 So, for every data point available in the data set, I would calculate the efficiency and take the average of the efficiency for a given kicker and multiply it by 100. This would equal the rating of the kicker, which is the percentage of times the kicker performed to or above expectations in comparison to my model
 
 Thus, the kickers with the highest ratings are the best kickers in the NFL
-
-## Project 1
-### Project Description
-If there is one sport that I've loved my whole life, it's football (soccer). If there's one competition that has truly resonated with me, it's the
-English Premier League. As a life long Manchester United fan, I've always been fascinated with the constant competition, the vibrant
-atmospheres, and the wonderful play of the English game. As an aspiring Data Scientist who is getting his feet wet with Machine Learning, I
-thought there would be no better way to get acquainted with Supervised Learning than using Premier League data itself. Thus, in my first
-Machine Learning Model ever, I'm going to build a Linear Regression Model which can predict with decent accuracy the final wins of a
-Premier League Team.
 
 
 
